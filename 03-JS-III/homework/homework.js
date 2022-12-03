@@ -51,7 +51,7 @@ function encuentraPares(array){
   // Tu código:
 
   /* codigo de forma larga con filter
-  var filtrados = array.filter((element)=> element % 2 === 0)
+  let filtrados = array.filter((element)=> element % 2 === 0)
 
   return filtrados;
  }
